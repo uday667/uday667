@@ -1,4 +1,4 @@
-![logo](https://github.com/Uday667/Uday667/blob/main/github%image.png)
+![logo](https://github.com/uday667/uday667/blob/main/github%20image.jpeg)
 <h1 align="center">Hi 👋, I'm Kadiri UdayKumar Reddy</h1>
 <h3 align="center">Experienced software developer with 1.5 years of expertise as developing Enterprise applications. Skilled in developing and deploying scalable solutions to meet complex Industry needs. Good problemsolving and teamwork abilities Passionate about staying current with industry trends</h3>
 
