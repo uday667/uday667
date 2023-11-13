@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kadiri UdayKumar Reddy</h1>
 <h3 align="center">Experienced software developer with 1.5 years of expertise as developing Enterprise applications. Skilled in developing and deploying scalable solutions to meet complex Industry needs. Good problemsolving and teamwork abilities Passionate about staying current with industry trends</h3>
 
-<img align="right" alt="coding" width="400" src="https://images.app.goo.gl/p9Bw1YF4FkMocLqR7">
+<img align="right" alt="coding" width="400" src="https://www.pinterest.com/pin/204702745549241158/">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uday667&label=Profile%20views&color=0e75b6&style=flat" alt="uday667" /> </p>
 
